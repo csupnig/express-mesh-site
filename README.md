@@ -34,3 +34,10 @@ nodemon app.js
 ```
 
 After starting the server you can make your first request to [http://localhost:8089/](http://localhost:8089).
+
+
+
+##### 4. More information
+
+Mesh: [http://getmesh.io/docs/beta/](http://getmesh.io/docs/beta/).
+Express-Mesh: [https://www.npmjs.com/package/express-mesh](https://www.npmjs.com/package/express-mesh).
