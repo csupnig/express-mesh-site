@@ -39,5 +39,6 @@ After starting the server you can make your first request to [http://localhost:8
 
 ##### 4. More information
 
-Mesh: [http://getmesh.io/docs/beta/](http://getmesh.io/docs/beta/).
-Express-Mesh: [https://www.npmjs.com/package/express-mesh](https://www.npmjs.com/package/express-mesh).
+- Express: [http://expressjs.com/](http://expressjs.com/).
+- Mesh: [http://getmesh.io/docs/beta/](http://getmesh.io/docs/beta/).
+- Express-Mesh: [https://www.npmjs.com/package/express-mesh](https://www.npmjs.com/package/express-mesh).
