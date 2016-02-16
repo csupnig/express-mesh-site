@@ -1,0 +1,26 @@
+{
+  "name": "MA27CBC",
+  "version": "0.0.1",
+  "dependencies": {
+    "bootstrap-sass": "3.3.6",
+    "font-awesome": ">=4.2.0",
+    "jquery": "2.1.x",
+    "momentjs": "~2.5.0"
+  },
+  "overrides": {
+    "bootstrap":{
+      "main": [
+        "./dist/js/bootstrap.js"
+      ]
+    },
+    "momentjs": {
+      "main": [
+        "moment.js",
+        "lang/de.js"
+      ]
+    },
+    "font-awesome": {
+      "ignore": true
+    }
+  }
+}
