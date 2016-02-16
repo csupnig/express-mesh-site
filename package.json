@@ -3,7 +3,7 @@
   "name": "MA27CBC",
   "version": "0.0.1",
   "dependencies": {
-    "express-mesh": "file:///Users/christopher/Work/WS_ExpressMesh",
+    "express-mesh": "0.1.8",
     "body-parser": "*",
     "brace": "*",
     "compression": "*",
