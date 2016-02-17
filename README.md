@@ -11,6 +11,7 @@ Install the dependencies defined in the package.json and bower.json
 
 ```shell
 sudo install -g gulp
+sudo install -g bower
 sudo install -g nodemon
 npm install
 bower install
