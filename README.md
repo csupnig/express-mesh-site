@@ -10,9 +10,9 @@ java -jar nameofyourmeshjar.jar
 Install the dependencies defined in the package.json and bower.json
 
 ```shell
-sudo install -g gulp
-sudo install -g bower
-sudo install -g nodemon
+sudo npm install -g gulp
+sudo npm install -g bower
+sudo npm install -g nodemon
 npm install
 bower install
 ```
